@@ -1,0 +1,1 @@
+先通过composer更新vendor文件，然后将项目放在服务器www文件夹下，使用database文件中的sql文件创建数据库
